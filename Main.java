@@ -3,6 +3,21 @@ public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
+        //irun nyo po sa compiler na naka full screen <3333
+        //irun nyo po sa compiler na naka full screen <3333
+        //irun nyo po sa compiler na naka full screen <3333
+        //irun nyo po sa compiler na naka full screen <3333
+        //irun nyo po sa compiler na naka full screen <3333
+        //irun nyo po sa compiler na naka full screen <3333
+        //irun nyo po sa compiler na naka full screen <3333
+        //irun nyo po sa compiler na naka full screen <3333
+        //irun nyo po sa compiler na naka full screen <3333
+        //irun nyo po sa compiler na naka full screen <3333
+        //irun nyo po sa compiler na naka full screen <3333
+        //irun nyo po sa compiler na naka full screen <3333
+        //irun nyo po sa compiler na naka full screen <3333
+        //irun nyo po sa compiler na naka full screen <3333
+
 
       do{
           String desiredDate2 = "";
@@ -903,7 +918,13 @@ public class Main {
             System.out.println("Thank you for choosing BANGSamoro Airlines.");
 
 
-
+            //irun nyo po sa compiler na naka full screen <3333
+        //irun nyo po sa compiler na naka full screen <3333
+        //irun nyo po sa compiler na naka full screen <3333
+        //irun nyo po sa compiler na naka full screen <3333
+        //irun nyo po sa compiler na naka full screen <3333
+        //irun nyo po sa compiler na naka full screen <3333
+        //irun nyo po sa compiler na naka full screen <3333
 
 
 
